@@ -1,13 +1,3 @@
-/*
- * FileHandling.h
- *
- *  Created on: Nov 21, 2019
- *      Author: WindowsUser
- */
-//Name: Tristin Proctor
-//UCINetID: tproctor
-//Description: A Class that holds the values and the functions
-
 #ifndef FILEHANDLING_H_
 #define FILEHANDLING_H_
 #include <string>
