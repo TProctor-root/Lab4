@@ -1,15 +1,3 @@
-/*
- * FileHandling.cpp
- *
- *  Created on: Nov 21, 2019
- *      Author: WindowsUser
- */
-//Name: Tristin Proctor
-//UCINetID: tproctor
-//Description: Functions that each perform a different task: User enters a file name,
-//checking if there's a file name with the same name as the user's input,
-//inputing the pyramid's height and transferring the output to the user's text file.
-
 #include "FileHandling.h"
 #include <iostream>
 #include <fstream>
